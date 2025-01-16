@@ -1,3 +1,5 @@
 This file is to test revert command
 
-This is second line 
+This is second line
+
+This is third line
